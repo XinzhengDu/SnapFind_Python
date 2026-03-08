@@ -34,7 +34,7 @@ Create a new Python environment and run the following commands to install depend
 ```bash
 pip install torch==2.1.0+cu121 torchvision==0.16.0+cu121 --index-url https://download.pytorch.org/whl/cu121
 pip install accelerate==0.30.1 altgraph==0.17.5 autocommand==2.2.2 backports.tarfile==1.0.0 certifi==2022.12.7 charset-normalizer==2.1.1 colorama==0.4.6 docx2txt==0.9 filelock==3.20.0 fsspec==2025.12.0 huggingface-hub==0.36.0 idna==3.4 jaraco.functools==4.4.0 Jinja2==3.1.3 lxml==6.0.2 MarkupSafe==2.1.5 more-itertools==10.8.0 mpmath==1.3.0 networkx==3.6.1 numpy==1.26.4 opencv-python==4.8.0.76 packaging==25.0 pefile==2024.8.26 pillow==12.0.0 psutil==7.2.1 pyinstaller==5.13.2 "pyinstaller-hooks-contrib==2025.11" PyPDF2==3.0.1 PyQt5==5.15.7 "PyQt5-Qt5==5.15.2" PyQt5-sip==12.11.0 python-docx==1.2.0 pywin32-ctypes==0.2.3 PyYAML==6.0.3 regex==2026.1.15 requests==2.28.1 safetensors==0.7.0 scipy==1.17.0 setuptools==65.5.0 sympy==1.14.0 tokenizers==0.21.4 tqdm==4.67.1 transformers==4.52.0 typing_extensions==4.15.0 urllib3==1.26.13
-
+```
 
 ## Beta Features (Currently Available)
 1. Content matching: Match search terms with videos, images, and documents. Queries support descriptions of time, location, people, and scenarios.  
