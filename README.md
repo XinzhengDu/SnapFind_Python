@@ -21,13 +21,10 @@ Currently, **English query terms are better supported** than other languages. If
 
 ## Installation & Usage
 ### 1. Download Required Files
-First, download the following model and tokenizer files:
-- siglip_vision.onnx
-- siglip_text.onnx
-- tokenizer.json  
+First, download all the following model and tokenizer files:
 
-Download link: https://www.modelscope.cn/models/XinzhengDu/siglip2-base-patch16-224-onnx/files  
-Place all files in the `model` folder of the project.
+https://modelscope.cn/models/google/siglip2-base-patch16-224/files
+Place all files in the `models` folder of the project.
 
 ### 2. Set Up Environment & Install Dependencies
 Create a new Python environment and run the following commands to install dependencies:
